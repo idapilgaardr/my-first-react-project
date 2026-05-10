@@ -20,7 +20,7 @@ function App() {
 
   return (
     <main className="app">
-      <h1>My Frist React App</h1>
+      <h1>EAAA Lector Overview</h1>
 
       <section className="grid">
         {users.map((user) => (
